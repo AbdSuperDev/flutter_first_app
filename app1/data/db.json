@@ -1,0 +1,454 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Téléphone portable",
+      "price": 500,
+      "promotion": true,
+      "stars": 5,
+      "image": "images/1.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 2,
+      "name": "Ordinateur portable",
+      "price": 300,
+      "promotion": false,
+      "stars": 4,
+      "image": "images/1.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 3,
+      "name": "Casque audio",
+      "price": 200,
+      "promotion": false,
+      "stars": 4,
+      "image": "images/1.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 4,
+      "name": "Montre connectée",
+      "price": 250,
+      "promotion": true,
+      "stars": 4,
+      "image": "images/2.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 5,
+      "name": "Enceinte Bluetooth",
+      "price": 200,
+      "promotion": true,
+      "stars": 3,
+      "image": "images/2.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 6,
+      "name": "Appareil photo",
+      "price": 400,
+      "promotion": true,
+      "stars": 4,
+      "image": "images/2.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 7,
+      "name": "Tablette graphique",
+      "price": 250,
+      "promotion": false,
+      "stars": 4,
+      "image": "images/2.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 8,
+      "name": "Imprimante",
+      "price": 200,
+      "promotion": false,
+      "stars": 3,
+      "image": "images/2.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 9,
+      "name": "Lampe de bureau",
+      "price": 50,
+      "promotion": false,
+      "stars": 3,
+      "image": "images/2.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 10,
+      "name": "Aspirateur robot",
+      "price": 300,
+      "promotion": false,
+      "stars": 4,
+      "image": "images/1.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 11,
+      "name": "Cafetière",
+      "price": 100,
+      "promotion": false,
+      "stars": 3,
+      "image": "images/3.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 12,
+      "name": "Fer à repasser",
+      "price": 50,
+      "promotion": false,
+      "stars": 2,
+      "image": "images/3.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 13,
+      "name": "Robot de cuisine",
+      "price": 200,
+      "promotion": true,
+      "stars": 4,
+      "image": "images/3.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 14,
+      "name": "Tondeuse à cheveux",
+      "price": 75,
+      "promotion": true,
+      "stars": 3,
+      "image": "images/3.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 15,
+      "name": "Téléviseur",
+      "price": 500,
+      "promotion": true,
+      "stars": 4,
+      "image": "images/3.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 16,
+      "name": "Console de jeux vidéo",
+      "price": 200,
+      "promotion": true,
+      "stars": 4,
+      "image": "images/3.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 17,
+      "name": "Lave-vaisselle",
+      "price": 400,
+      "promotion": true,
+      "stars": 4,
+      "image": "images/3.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 18,
+      "name": "Réfrigérateur",
+      "price": 300,
+      "promotion": true,
+      "stars": 3,
+      "image": "images/3.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 19,
+      "name": "Four à micro-ondes",
+      "price": 100,
+      "promotion": true,
+      "stars": 3,
+      "image": "images/3.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 20,
+      "name": "Bouilloire électrique",
+      "price": 50,
+      "promotion": true,
+      "stars": 3,
+      "image": "images/3.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 21,
+      "name": "Barbecue électrique",
+      "price": 150,
+      "promotion": true,
+      "stars": 3,
+      "image": "images/3.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 22,
+      "name": "Grille-pain",
+      "price": 25,
+      "promotion": true,
+      "stars": 2,
+      "image": "images/3.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 23,
+      "name": "Mixeur",
+      "price": 75,
+      "promotion": false,
+      "stars": 3,
+      "image": "images/4.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 24,
+      "name": "Balance de cuisine",
+      "price": 30,
+      "promotion": true,
+      "stars": 2,
+      "image": "images/4.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 25,
+      "name": "Sèche-cheveux",
+      "price": 50,
+      "promotion": true,
+      "stars": 3,
+      "image": "images/4.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 26,
+      "name": "Ventilateur",
+      "price": 75,
+      "promotion": true,
+      "stars": 3,
+      "image": "images/4.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 27,
+      "name": "Climatiseur portable",
+      "price": 200,
+      "promotion": false,
+      "stars": 4,
+      "image": "images/4.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 28,
+      "name": "Friteuse électrique",
+      "price": 100,
+      "promotion": false,
+      "stars": 3,
+      "image": "images/4.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 29,
+      "name": "Presse-agrumes",
+      "price": 40,
+      "promotion": false,
+      "stars": 2,
+      "image": "images/4.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 30,
+      "name": "Grille-viande",
+      "price": 75,
+      "promotion": false,
+      "stars": 3,
+      "image": "images/4.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 31,
+      "name": "Machine à glaçons",
+      "price": 150,
+      "promotion": false,
+      "stars": 3,
+      "image": "images/4.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 32,
+      "name": "Lave-linge",
+      "price": 300,
+      "promotion": false,
+      "stars": 4,
+      "image": "images/4.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 33,
+      "name": "Sèche-linge",
+      "price": 250,
+      "promotion": true,
+      "stars": 4,
+      "image": "images/4.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 34,
+      "name": "Épilateur électrique",
+      "price": 50,
+      "promotion": true,
+      "stars": 3,
+      "image": "images/5.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 35,
+      "name": "Pèse-personne",
+      "price": 30,
+      "promotion": true,
+      "stars": 2,
+      "image": "images/5.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 36,
+      "name": "Brosse à dents électrique",
+      "price": 25,
+      "promotion": true,
+      "stars": 2,
+      "image": "images/5.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 37,
+      "name": "Rasoir électrique",
+      "price": 50,
+      "promotion": false,
+      "stars": 3,
+      "image": "images/5.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 38,
+      "name": "Coupe-ongles électrique",
+      "price": 20,
+      "promotion": false,
+      "stars": 5,
+      "image": "images/5.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 39,
+      "name": "Cireuse à chaussures électrique",
+      "price": 50,
+      "promotion": false,
+      "stars": 2,
+      "image": "images/5.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 40,
+      "name": "Plaque de cuisson",
+      "price": 200,
+      "promotion": false,
+      "stars": 3,
+      "image": "images/5.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 41,
+      "name": "Mixeur plongeant",
+      "price": 40,
+      "promotion": false,
+      "stars": 2,
+      "image": "images/5.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 42,
+      "name": "Déshumidificateur",
+      "price": 100,
+      "promotion": false,
+      "stars": 3,
+      "image": "images/5.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 43,
+      "name": "Humidificateur d'air",
+      "price": 75,
+      "promotion": true,
+      "stars": 3,
+      "image": "images/5.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 44,
+      "name": "Cafetière à dosettes",
+      "price": 50,
+      "promotion": true,
+      "stars": 3,
+      "image": "images/5.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 45,
+      "name": "Moulin à café électrique",
+      "price": 30,
+      "promotion": true,
+      "stars": 2,
+      "image": "images/5.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 46,
+      "name": "Cuiseur vapeur électrique",
+      "price": 75,
+      "promotion": false,
+      "stars": 3,
+      "image": "images/5.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 47,
+      "name": "Fer à boucler",
+      "price": 50,
+      "promotion": false,
+      "stars": 3,
+      "image": "images/5.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 48,
+      "name": "Sorbetière",
+      "price": 100,
+      "promotion": false,
+      "stars": 3,
+      "image": "images/1.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 49,
+      "name": "Déboucheur électrique",
+      "price": 25,
+      "promotion": false,
+      "stars": 2,
+      "image": "images/1.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    },
+    {
+      "id": 50,
+      "name": "Robot de piscine",
+      "price": 200,
+      "promotion": false,
+      "stars": 3,
+      "image": "images/1.jpg",
+      "desc": "mainAxisAlignment: MainAxisAlignment.start,crossAxisAlignment:"
+    }
+  ]
+}
